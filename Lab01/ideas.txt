@@ -1,0 +1,9 @@
+John White
+Lab01
+CS-262 Software engineering
+
+Exercise 1.1
+tractable: I have an idea for a barcode scanning app for cans and other returnable items (cans, bottles, plastics). When you scan a products barcode it would pull data from a database and then show where that specific item can be returned at a bottle return. some features could include hwo much it would be worth, directions from the users current location, or maybe some other things. // I need to work on where I could find the database with the return locations.
+
+wacky: I have an idea for an app that would analyze your entire body and then you would answer a couple of questions about your physical health goals. Then it would provide you with an excersize plan that would be completely shaped by your body type and answers to the questions. This would allow you to perfectly enhance your body and strengthen the areas that you would want or need. 
+	
