@@ -13,7 +13,7 @@ I am instructed by Professor VanderLinden
   - Compare and contrast traditional and agile development lifecycles.
   - Compare and contrast software quality techniques.
   
- - Software development:
+- Soware development:
 
   - Design and implement a substantive software system.
   - Build design models a software system using the Unified Modeling Language (UML).
