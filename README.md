@@ -15,22 +15,22 @@ I am instructed by Professor VanderLinden
   
  - Software development:
 
-  Design and implement a substantive software system.
-  Build design models a software system using the Unified Modeling Language (UML).
-  Design, implement and use a relational database system.
-  Design, implement and assess a user interface.
+  - Design and implement a substantive software system.
+  - Build design models a software system using the Unified Modeling Language (UML).
+  - Design, implement and use a relational database system.
+  - Design, implement and assess a user interface.
   
 - Software Tools:
 
-  Use project management tools.
-  Use software development tools.
-  Use software configuration management tools.
+  - Use project management tools.
+  - Use software development tools.
+  - Use software configuration management tools.
   
 - Professional Practice:
 
-  Design and produce technical documents.
-  Design and execute technical presentations.
-  Work effectively on teams.
+  - Design and produce technical documents.
+  - Design and execute technical presentations.
+  - Work effectively on teams.
   
 - The course technologies are based on React Native, PostgreSQL, and GitHub. The material is considered in the context of the reformed Christian perspective.
 
