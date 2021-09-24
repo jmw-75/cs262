@@ -8,10 +8,10 @@ I am instructed by Professor VanderLinden
 
 - Software project management:
 
-  Describe, explain and use the disciplines of the traditional software development lifecycle: analysis; design; implementation; testing and maintenance.
-  Describe, explain and use the disciplines of agile software development.
-  Compare and contrast traditional and agile development lifecycles.
-  Compare and contrast software quality techniques.
+  - Describe, explain and use the disciplines of the traditional software development lifecycle: analysis; design; implementation; testing and maintenance.
+  - Describe, explain and use the disciplines of agile software development.
+  - Compare and contrast traditional and agile development lifecycles.
+  - Compare and contrast software quality techniques.
   
  - Software development:
 
