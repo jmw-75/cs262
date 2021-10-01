@@ -5,6 +5,7 @@ This lab is based on: https://cs.calvin.edu/courses/cs/262/kvlinden/05design/lab
 I refactored a previous solution from Lab04 to modularize the system and added a few new features. 
 
 Answers to the lab questions: 
+
 	1. Of what benefit was the refactoring phase of this lab?
 		The benefit of refactoring was that is spread the code out from the app.js file rather than crunching it all inside
 		This allows for easier understanding and cleaner code for the users.
