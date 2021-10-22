@@ -2,7 +2,7 @@ CS 262 - Lab #7
 
 This lab is based on: https://cs.calvin.edu/courses/cs/262/kvlinden/07is/lab.html
 
-I used ...
+I modified an SQL file provided to me to add more tables and data to its previous version.
 
 questions:
 
