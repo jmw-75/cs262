@@ -19,7 +19,7 @@ Changes not made:
  - package-lock.json
 	1,001 things that are typos
    justification: This is a package that we downloaded. We will refrain from updating
-		  anything from there in order to not break anthing.
+		  anything from there in order to not break anything.
  - view_events.js
 	Cannonsburg "saying it is a type"
    justification: This is the name of a place. Although it is not capitalized
