@@ -1,0 +1,29 @@
+John White
+Lab11
+CS262
+November 12, 2021
+
+Changes made: 
+ - global.js, home.js
+	buttonv -> month_button 
+ - NOVEMBEREVENTS.md
+        'thru' -> through
+        'engagin' -> engaging
+        'thorugh' -> through
+        'huess' -> hues
+Changes not made:
+ - home.js
+	meijer_image "saying it is a typo"
+   justification: This is the name of a place. Although it is not capitalized
+		  it is part of a greater word so it is okay.
+ - package-lock.json
+	1,001 things that are typos
+   justification: This is a package that we downloaded. We will refrain from updating
+		  anything from there in order to not break anthing.
+ - view_events.js
+	Cannonsburg "saying it is a type"
+   justification: This is the name of a place. Although it is not capitalized
+		  it is part of a description so it is okay.
+- NOVEMBEREVENTS.md
+         'Illumizoo', 'Devos', 'cosplaying' "saying it is a type"
+  justification: These are all names of places, events, or activity descriptions.
