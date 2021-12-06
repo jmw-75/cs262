@@ -1,6 +1,6 @@
 **CS 262 - Fall 2021**
 
-CS262 - Software Engineering - description found [here](https://cs.calvin.edu/courses/cs/262/kvlinden/(
+CS262 - Software Engineering - description found [here](https://cs.calvin.edu/courses/cs/262/kvlinden/)
 
 My semester long team project can be found [here](https://github.com/calvin-cs262-fall2021-teamC)
 
